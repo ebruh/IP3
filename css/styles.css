@@ -29,9 +29,11 @@ h4{
     color: black;
     font-size: 40px;
 }
-#italic{
+#ibra{
     font-style: italic;
 }
 p, h1, h2, h3, h4, h5 {
-    font-family: 'Caveat', cursive;
+    font-family: 'Cabin Sketch', cursive;
 }
+
+
