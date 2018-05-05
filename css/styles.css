@@ -5,6 +5,8 @@
 }
 .madax{
     padding-top: 20px;
+    font-family: 'Cabin Sketch', cursive;
+
 
 }
 h1{
@@ -15,7 +17,9 @@ body{
 }
 p{
     font-size: 30px;
-    color: blue;
+    /* color: blue; */
+    font-family: 'Cabin Sketch', cursive;
+font-family: 'Spirax', cursive;
 }
 
 h5{
@@ -32,7 +36,7 @@ h4{
 #ibra{
     font-style: italic;
 }
-p, h1, h2, h3, h4, h5 {
+h2, h3, h4, h5 {
     font-family: 'Cabin Sketch', cursive;
 }
 
