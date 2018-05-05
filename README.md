@@ -4,7 +4,7 @@
 
 **Ibrahim**
 
-# Technology Used
+ **Technology Used**
 
 HTML CSS BOOTSTRAP AND JS
 
@@ -12,3 +12,7 @@ HTML CSS BOOTSTRAP AND JS
 
 https://github.com/ebruh/IP3.git
 
+**License**
+
+
+MIT Copyright (c) 2018
