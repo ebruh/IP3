@@ -1,43 +1,54 @@
-
-.header{
+.header {
     background-color: white;
     height: 200px;
 }
-.madax{
+
+.madax {
     padding-top: 20px;
     font-family: 'Cabin Sketch', cursive;
-
-
+    text-align: center;
 }
-h1{
+
+h1 {
     font-size: 150px;
 }
-body{
-    background-color:#dbedff;
+
+body {
+    background-color: #dbedff;
 }
-p{
+
+p {
     font-size: 30px;
     /* color: blue; */
-    font-family: 'Cabin Sketch', cursive;
-font-family: 'Spirax', cursive;
+    /* fontfont-family: 'Spirax', cursive;
+-family: 'Cabin Sketch', cursive; */
 }
 
-h5{
+h5 {
     color: black;
     font-size: 40px;
 }
-.col-md-4{
+
+.col-md-4 {
     float: left;
 }
-h4{
+
+h4 {
     color: black;
     font-size: 40px;
 }
-#ibra{
+
+#ibra {
     font-style: italic;
 }
-h2, h3, h4, h5 {
+
+h2,
+h3,
+h4,
+h5 {
     font-family: 'Cabin Sketch', cursive;
 }
 
-
+#ping {
+    color: black;
+}
