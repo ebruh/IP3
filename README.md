@@ -10,8 +10,7 @@ HTML CSS BOOTSTRAP AND JS
 
 **LINK**
 
-https://github.com/ebruh/IP3.git
-
+https://ebruh.github.io/IP3/
 **License**
 
 
